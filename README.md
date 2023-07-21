@@ -1,8 +1,9 @@
-# Proyecto-IOT-uch
+## Proyecto-IOT-uch
 
-# Benito Fuentes Silva, mail: benitofuentessilva@gmail.com
-# Fernando Urzúa, mail: fernando.urzua.v@ug.uchile.cl
-# José Espinoza, mail: jose.espinoza.v@ug.uchile.cl
+#Contacto:
+ Benito Fuentes Silva, mail: benitofuentessilva@gmail.com
+ Fernando Urzúa, mail: fernando.urzua.v@ug.uchile.cl
+ José Espinoza, mail: jose.espinoza.v@ug.uchile.cl
 
 
  Se ocuparon los sensores de tempertatura y humedad para tener un uso referencial y con la
