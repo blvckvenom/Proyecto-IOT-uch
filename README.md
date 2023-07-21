@@ -6,9 +6,9 @@
 
 
  Se ocuparon los sensores de tempertatura y humedad para tener un uso referencial y con la
- intencion de que se pueda visualizar la entrega de datos
+ intencion de que se pueda visualizar la entrega de datos.
  Ademas se ocupo un sensor de turbiedad, que no necesita libreria externa para su uso
- Solo se necesitaba ocupar los pines asociados al uso del sensor
+ Solo se necesitaba ocupar los pines asociados al uso del sensor.
 
 # Los modulos enlistados quedan asi:
 
@@ -43,15 +43,15 @@ El pin A, corresponde a la salida análoga de voltaje (0 a 4.5V).
 El pin D, corresponde a la salida digital.
 El pin V se debe conectar al positivo de la fuente de alimentación (5VDC).
 
- Para su lectura, esencialmente se creo una variable que identifique el pin analogo
- Despues en el loop, se hizo la lectura del pin, para despues crear una funcion que entraga gramos de cloro por litro
- Esta conversion se hizo ya que 10ppm de cloro es usada para aguas turbias pero no en exceso (nivel intermedio)
- Y con transformaciones matematicas se llego a la contante que multiplica nuestra variable
- Ademas se estimo un valor promedio del agua clara (2700)
- Se hacia un print de los valores para tener una lectura mas rapida en temas visuales
- Despues simplemente se agrega al mensaje a enviar
+ Para su lectura, esencialmente se creo una variable que identifique el pin analogo.
+ Despues en el loop, se hizo la lectura del pin, para despues crear una funcion que entraga gramos de cloro por litro.
+ Esta conversion se hizo ya que 10ppm de cloro es usada para aguas turbias pero no en exceso (nivel intermedio),
+ donde con transformaciones matematicas se llego a la contante que multiplica nuestra variable.
+ Ademas se estimo un valor promedio del agua clara (2700).
+ Se hacia un print de los valores para tener una lectura mas rapida en temas visuales.
+ Despues simplemente se agrega al mensaje a enviar.
 
- El calculo de la bateria no es preciso, ya que solo muestra un 100% y da una caida brusca cuando llega al 0%
+ El calculo de la bateria no es preciso, ya que solo muestra un 100% y da una caida brusca cuando llega al 0%.
 
 # Hay una pagina en portugues que ayuda a entender mejor el sensor: 
 
