@@ -11,6 +11,8 @@
  José Espinoza, mail: jose.espinoza.v@ug.uchile.cl
 
 
+# Modulos usados post montaje:
+
  Se ocuparon los sensores de tempertatura y humedad para tener un uso referencial y con la
  intencion de que se pueda visualizar la entrega de datos.
  Ademas se ocupo un sensor de turbiedad, que no necesita libreria externa para su uso
